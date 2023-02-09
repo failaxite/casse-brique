@@ -33,8 +33,11 @@ https://user-images.githubusercontent.com/48534490/217894699-2b40d143-53aa-46fa-
 ## Team Members
 
 [@failaxite](https://github.com/failaxite)
+<br>
 [@chevalierblu00](https://github.com/chevalierblu00)
+<br>
 [@antoinebayssac](https://github.com/antoinebayssac)
+<br>
 [@tinkode92](https://github.com/tinkode92)
 
 
